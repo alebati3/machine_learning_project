@@ -2,7 +2,7 @@
 The aim of this project was to employ several supervised Machine Learning techniques: 
 - Artificial Neural Network (ANN)
 - K-Nearest Neighbors (KNN)
-- Linear regressors
+- Linear regression
 - Support Vector Machines (SVM)
   
 to solve classification and regression tasks. 
